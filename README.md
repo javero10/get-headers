@@ -1,6 +1,7 @@
 Obtener headers del objeto request
 
-se uso la siguiente configuracion
+se utilizaron las siguientes herramientas:
+
 java ->  java version "1.8.0_261"
 
 maven -> Apache Maven 3.6.3
