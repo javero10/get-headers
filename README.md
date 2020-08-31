@@ -2,7 +2,9 @@ Obtener headers del objeto request
 
 se uso la siguiente configuracion
 java ->  java version "1.8.0_261"
+
 maven -> Apache Maven 3.6.3
+
 OS -> Windows 10
 
 Se uso la herramienta Swagger para documentar la aplicación
